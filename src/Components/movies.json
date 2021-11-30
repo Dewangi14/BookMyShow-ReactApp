@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91vE3FxnCdL._RI_.jpg",
+        "title" : "Bell Bottom",
+        "actor" : "Akshay Kumar"
+    },
+    {
+        "id" : 2,
+        "image": "https://1.bp.blogspot.com/-shidm9HPKBQ/YBQhfPTP8FI/AAAAAAAAFag/l1euZbORfL8hfouiZICD3rdcANMj4o-7ACLcBGAsYHQ/s726/Shershaah.jpg",
+        "title" : "SherShah",
+        "actor" : "Kiara Advani"
+    },
+    {
+        "id" : 3,
+        "image": "https://img.reelgood.com/content/movie/9a50b511-44e3-46dc-bd86-c01ed0c2b0e6/poster-780.jpg",
+        "title" : "Dhamaaka",
+        "actor" : "Kartik Aryan"
+    },
+    {
+        "id" : 4,
+        "image": "https://qph.fs.quoracdn.net/main-qimg-246d46464060b2002093b17c84b98f55-lq",
+        "title" : "Thappad",
+        "actor" : "Tapsee Pannu"
+    },
+    {
+        "id" : 5,
+        "image": "https://4.imimg.com/data4/GX/IO/MY-9282730/2-states-book-cover-500x500.jpg",
+        "title" : "2 States",
+        "actor" : "Alia Bhatt"
+    }
+]
