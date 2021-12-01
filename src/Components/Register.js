@@ -47,7 +47,7 @@ function Register() {
 
           showCloseButton: true,
         });
-      });
+      }); 
     // console.log(response);
   }
 
