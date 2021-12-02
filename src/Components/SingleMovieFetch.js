@@ -15,7 +15,7 @@ function SingleMovieFetch() {
     useEffect(async() =>{
         try 
         {
-          const response = await axios.get(`http://localhost:5003/movies/${movid}`);  //express mongoDB URL|| using templates to fetch movid value as params
+          const response = await axios.get(`https://book-my-show-backend-dewangi.herokuapp.com/movies/${movid}`);  //express mongoDB URL|| using templates to fetch movid value as params
           console.log(response);
           setData([response.data]); //data:backend-data //to fetch ONLY data section of response. respose.data returns an object , hence need to convert to array for map function
         } 

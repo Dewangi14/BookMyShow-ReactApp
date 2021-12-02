@@ -15,7 +15,7 @@ function AllMoviesFetch() {
     useEffect(async () => {
         try 
         {
-          const response = await axios.get('http://localhost:5003/movies');  //express mongoDB URL
+          const response = await axios.get('https://book-my-show-backend-dewangi.herokuapp.com/movies');  //express mongoDB URL
           console.log(response);
           setData(response.data);  //to fetch ONLY data section of response.
         } 

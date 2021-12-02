@@ -30,7 +30,7 @@ function Register() {
 
     console.log(userDetails);
     const response = await axios
-      .post(`http://localhost:5003/user-register`, userDetails)
+      .post(`https://book-my-show-backend-dewangi.herokuapp.com/user-register`, userDetails)
       .then((data) => {
         Swal.fire({
           title: `<strong>${data.data.message}</strong>`,
